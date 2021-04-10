@@ -5,4 +5,4 @@ This is an annotated owner-member relationship dataset called WORD as a large-sc
 # Download url： 
 https://pan.baidu.com/s/12oBZIImLizn_-EseyYwfzQ 
 
-passcode：2fok 
+Passcode：2fok 
